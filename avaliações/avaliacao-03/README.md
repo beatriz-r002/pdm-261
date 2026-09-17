@@ -303,38 +303,6 @@ Também foi utilizado conteúdo HTML:
 
 ---
 
-# 10. Evidências da atividade
-
-Foram realizadas capturas de tela para comprovar a execução.
-
-### 🖥️ Evidência 1 — Terminal
-
-Print mostrando a execução:
-
-```bash
-dart run
-```
-
-e a mensagem indicando que o e-mail foi enviado com sucesso.
-
-### 📧 Evidência 2 — E-mail recebido
-
-Print da caixa de entrada mostrando o e-mail enviado pelo programa, incluindo:
-
-* remetente;
-* assunto;
-* conteúdo da mensagem.
-
-Essas imagens podem ser adicionadas posteriormente neste README, por exemplo:
-
-```markdown
-![Execução do programa](images/terminal.png)
-
-![E-mail recebido](images/email-recebido.png)
-```
-
----
-
 # 📁 Estrutura do projeto
 
 ```text
