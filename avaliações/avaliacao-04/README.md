@@ -48,7 +48,7 @@ dependencies:
 
 ### 4. Criar o servidor
 
-Crie o arquivo `bin/server.dart` com o código do servidor (ver seção "Códigos" abaixo).
+Crie o arquivo `bin/server.dart` com o código do servidor (ver em server.dart).
 
 ### 5. Instalar as dependências
 
