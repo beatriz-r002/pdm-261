@@ -1,6 +1,6 @@
 # API REST de Alunos em Dart
 
-API REST simples desenvolvida em Dart para gerenciar uma lista de alunos mockados (simulando um banco de dados).
+API REST simples desenvolvida em Dart para gerenciar uma lista de alunos simulando um banco de dados.
 
 ## 🚀 Funcionalidades
 
