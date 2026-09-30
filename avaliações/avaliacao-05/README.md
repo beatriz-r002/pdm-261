@@ -29,7 +29,7 @@ ID NOME DISCIPLINA MEDIA FALTAS MENSAGEM
 ## 📁 Estrutura
 
 ```text
-atividade/
+servidor_alunos/bin
 ├── server.dart
 ├── client.dart
 └── README.md
