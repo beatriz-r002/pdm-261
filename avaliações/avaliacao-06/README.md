@@ -11,10 +11,10 @@ O aplicativo gera pares de palavras aleatórias, permite ao usuário curti-las/f
 ## 📱 Telas da Aplicação
 
 ### Tela Principal (Generator)
-![Home Page](assets/images/print_home.png)
+![Home Page](flutter_application_1/assets/images/print_home.png)
 
 ### Tela de Favoritos
-![Favorites Page](assets/images/print_favorites.png)
+![Favorites Page](flutter_application_1/assets/images/print_favorites.png)
 
 ## 🛠️ Tecnologias Utilizadas
 - **Flutter** (UI Toolkit)
