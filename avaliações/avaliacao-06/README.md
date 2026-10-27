@@ -1,4 +1,4 @@
-# Avaliação 06 - Aplicação Flutter (Namer App)
+# Aplicação Flutter
 
 Projeto desenvolvido para a disciplina de Programação para Dispositivos Móveis (PDM).
 
